@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://3tv.smotrim-lostfilm.ru/sitemap1.xml
+Sitemap: https://optim-tv.github.io/sitemap1.xml
